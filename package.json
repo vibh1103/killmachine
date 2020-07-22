@@ -1,0 +1,25 @@
+{
+  "name": "killmachine",
+  "version": "0.0.0",
+  "description": "Test for package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibh1103/killmachine.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "killmachine",
+    "javascript"
+  ],
+  "author": "Vibhor Malik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vibh1103/killmachine/issues"
+  },
+  "homepage": "https://github.com/vibh1103/killmachine#readme"
+}
